@@ -71,3 +71,7 @@ Nếu muốn chuyển sang MySQL/PostgreSQL:
 - Hệ thống tự động seed dữ liệu lần đầu chạy.
 - Khi trả sách trễ, hệ thống tự động tạo khoản phạt.
 - Báo cáo có thể xuất PDF trực tiếp từ giao diện.
+
+## Demo
+<img width="1644" height="1000" alt="Demo_QuanLyThuVien" src="https://github.com/user-attachments/assets/0df9677e-849e-45b3-9274-2e77d7fb0914" />
+
